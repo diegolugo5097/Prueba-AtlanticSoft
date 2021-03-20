@@ -1,0 +1,64 @@
+.content {
+  border: 1px solid #ccc;
+  overflow: hidden;
+  display: block;
+  text-align: center;
+}
+
+.content-header {
+  justify-content: center;
+  margin-bottom: -20%;
+}
+
+.OurNumbers {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  z-index: 1;
+  border: 1px solid rgb(221, 221, 221);
+  justify-content: center;
+  position: relative;
+  border-radius: 20px;
+}
+
+.number {
+  font-size: 69px;
+}
+
+.swiper-wrapper {
+  margin-left: -2.3%;
+}
+
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 145%;
+}
+
+.separator {
+  border-right: 1px solid rgb(185, 183, 183);
+}
+
+.swiper-slide {
+  font-size: 13px;
+}
+
+.swiper-container {
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.blueline {
+  transform: rotate(90deg) scaleX(-1);
+  margin-bottom: -63px;
+  z-index: -1;
+}
+
+.greylineAboutUs {
+  z-index: -1;
+  position: relative;
+  margin-top: -42%;
+  margin-left: 60%;
+}

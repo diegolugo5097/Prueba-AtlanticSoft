@@ -1,0 +1,33 @@
+.mask {
+  width: 438px;
+  margin-top: 80px;
+  margin-left: 54px;
+  border-radius: 100%;
+  box-shadow: rgb(0 0 0 / 12%) 0px 45px 59px, rgb(0 0 0 / 24%) 0px -12px 30px,
+    rgb(0 0 0 / 11%) 0px 4px 6px, rgb(0 0 0 / 0%) 0px 12px 13px,
+    rgb(0 0 0 / 0%) 0px -3px 118px;
+}
+
+.header {
+  justify-content: center;
+}
+
+.caption {
+  margin-top: 15%;
+}
+
+.redline {
+  position: absolute;
+  width: 247px;
+  z-index: -1;
+  margin-top: -30px;
+}
+
+.greyline {
+  position: absolute;
+  z-index: -1;
+  width: 446px;
+  opacity: 1;
+  margin-left: 26%;
+  margin-top: -150px;
+}

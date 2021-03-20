@@ -1,0 +1,19 @@
+.nav-item {
+  opacity: 0.6;
+  color: black;
+}
+
+.login {
+  opacity: 0.6;
+  color: black;
+}
+
+.logo {
+  top: 28px;
+  left: 73px;
+  width: 176px;
+}
+
+.navbar {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
